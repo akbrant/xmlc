@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.oliphantllc</groupId>
+	<artifactId>swing-layout</artifactId>
+	<version>1.0.3</version>
+	<name>swing-layout</name>
+	<description>old version of swing-layout</description>
+	<url>https://github.com/akbrant/xmlc</url>
+	
+
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Brant Oliphant</name>
+      <email>brant@oliphantllc.com</email>
+      <organization>Oliphant LLC</organization>
+      <organizationUrl>http://www.oliphantllc.com</organizationUrl>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:git://github.com/akbrant/xmlc.git</connection>
+    <developerConnection>scm:git:ssh://github.com/akbrant/xmlc.git</developerConnection>
+    <url>>https://github.com/akbrant/xmlc</url>
+   </scm>
+
+</project>
